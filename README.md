@@ -1,6 +1,6 @@
-# New-Solution
+# new-dotnet-solution
 
-A PowerShell script that scaffolds a new .NET solution the way I like to start projects: Clean/Onion layers, central package management, strict build settings, optional Aspire and EF Core, and a first commit, all from one interactive command.
+`New-Solution.ps1` is a PowerShell script that scaffolds a new .NET solution the way I like to start projects: Clean/Onion layers, central package management, strict build settings, optional Aspire and EF Core, and a first commit, all from one interactive command.
 
 ## Requirements
 
